@@ -9,11 +9,11 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.debasis.eventstarcker.exception.SystemException;
-import com.debasis.eventstarcker.model.Event;
-import com.debasis.eventstarcker.model.EventCriteria;
 import com.debasis.eventstracker.common.UriBuilder;
 import com.debasis.eventstracker.dao.RepoEventsDAO;
+import com.debasis.eventstracker.exception.SystemException;
+import com.debasis.eventstracker.model.Event;
+import com.debasis.eventstracker.model.EventCriteria;
 import com.debasis.eventstracker.service.RepoEventsService;
 
 /**

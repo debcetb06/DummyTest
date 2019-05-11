@@ -1,4 +1,4 @@
-package com.debasis.eventstarcker.exception;
+package com.debasis.eventstracker.exception;
 
 public class ServiceException extends RuntimeException{
 	/**

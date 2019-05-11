@@ -1,4 +1,4 @@
-package com.debasis.eventstarcker.model;
+package com.debasis.eventstracker.model;
 
 import java.time.LocalDate;
 

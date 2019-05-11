@@ -2,9 +2,9 @@ package com.debasis.eventstracker.service;
 
 import java.util.List;
 
-import com.debasis.eventstarcker.exception.SystemException;
-import com.debasis.eventstarcker.model.Event;
-import com.debasis.eventstarcker.model.EventCriteria;
+import com.debasis.eventstracker.exception.SystemException;
+import com.debasis.eventstracker.model.Event;
+import com.debasis.eventstracker.model.EventCriteria;
 
 /**
  * <p>This interfaces provides the contact for getting event details from Code repositories</p>

@@ -2,7 +2,7 @@ package com.debasis.eventstracker.dao;
 
 import java.util.List;
 
-import com.debasis.eventstarcker.exception.ServiceException;
+import com.debasis.eventstracker.exception.ServiceException;
 
 
 public interface RepoEventsDAO {

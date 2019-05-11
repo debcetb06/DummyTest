@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.debasis.eventstarcker.exception.SystemException;
-import com.debasis.eventstarcker.model.Event;
-import com.debasis.eventstarcker.model.EventCriteria;
+import com.debasis.eventstracker.exception.SystemException;
+import com.debasis.eventstracker.model.Event;
+import com.debasis.eventstracker.model.EventCriteria;
 import com.debasis.eventstracker.service.RepoEventsService;
 
 @RestController

@@ -3,8 +3,8 @@ package com.debasis.eventstracker.common;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.debasis.eventstarcker.model.EventCriteria;
 import com.debasis.eventstracker.constant.Constants;
+import com.debasis.eventstracker.model.EventCriteria;
 
 /**
  *<P>This class is used to build the repo events URI 
